@@ -7,6 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
-	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\lab-3a-Paul-Motter\lab_3a\lib\hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\lab-3a-Paul-Motter\lab_3a\lib\junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\305-Lab-3-Tests-Unit-and-Mocking\lab-3a-Paul-Motter\lab_3a\lib\hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:\ProjectsAndStuff\CSC305 HW\305-Lab-3-Tests-Unit-and-Mocking\lab-3a-Paul-Motter\lab_3a\lib\junit-4.13.2.jar"/>
 </classpath>

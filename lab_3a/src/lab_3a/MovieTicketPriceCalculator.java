@@ -59,8 +59,7 @@ public class MovieTicketPriceCalculator {
                           final int age) {
     final int discount = computeDiscount(age);
 
-    if ((scheduledTime.equals(startMatineeTime) || scheduledTime.isAfter(startMatineeTime))
-        && scheduledTime.isBefore(endMatineeTime)) {
+    if ((scheduledTime.equals(startMatineeTime) || scheduledTime.isAfter(startMatineeTime)) && scheduledTime.isBefore(endMatineeTime)) {
       return MATINEE_PRICE_CENTS - discount;
     } else {
       return STANDARD_PRICE_CENTS - discount;
